@@ -16,6 +16,7 @@ Data Cleaning
 Data Analysis
 Data Encoding
 Feature Scaling
+
 3. Regression techniques such as:
 
 Linear Regression
